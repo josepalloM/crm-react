@@ -1,4 +1,5 @@
 const Formulario = ({cliente}) => {
+   console.log("nombre cliente", cliente?.nombre)
     return (
         <>
             <div className="mb-4">

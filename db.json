@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Juan Actualizado",
-      "empresa": "Codigo Con Juan",
-      "email": "juan@juan.com",
-      "telefono": "102013313",
-      "notas": "Nueva ",
-      "id": 1
-    },
-    {
       "nombre": "Karen Actualizado",
       "empresa": "Codigo Con Juan",
       "email": "karen@juan.com",
@@ -29,14 +21,6 @@
       "telefono": 319381983,
       "email": "miguel@juan.com",
       "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Pedro",
-      "empresa": "Codigo Con Juan",
-      "email": "pedro@juan.com",
-      "telefono": "1398198938",
-      "notas": "actualizado",
-      "id": 5
     },
     {
       "nombre": "José David",

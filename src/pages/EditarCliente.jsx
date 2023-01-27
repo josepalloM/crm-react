@@ -5,6 +5,7 @@ import Formulario from "../components/Formulario.jsx";
 
 export async function loader({params}){
     const cliente =  await obtenerCliente(params.clienteId)
+    console.log(typeof cliente)
     if (Object.values(cliente).length===0){
         throw new Response('', {
             status: 404,
